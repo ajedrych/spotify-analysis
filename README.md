@@ -1,7 +1,8 @@
 # 🎵 Analysis of the work of Queen, Billie Eilish and The Weeknd
-> Dashboards were created in Tableau.
-> The analysis was performed thanks to data acquired through the Spotify API. The data is from 2018.
-> 
+
+Dashboards were created in Tableau.
+The analysis was performed thanks to data acquired through the Spotify API. The data is from 2018.
+
 ### 🎓 Project
 Application was made as a course credit project.
 
